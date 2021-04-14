@@ -5,14 +5,16 @@ body {
 }
 
 header {
-  text-align: center
+  text-align: center;
 }
 
 section {
-  text-align: center
+  text-align: center;
 }
 
 nav a {
   padding-right: 10px;
-  padding-left: 10px
+  padding-left: 10px;
+  background-color: red;
 }
+
